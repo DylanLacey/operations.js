@@ -5,4 +5,4 @@ before_script: grunt build
 env:
   global:
     - secure: "TC5+gq/qaDwc537/FNMpDvvOUxbSiJaGPMh/18u+I4fg5sJnfavWJtNlzXH4W/9ACRAtDDFpxcfVZtqHeb3q+Nh1WE8Sd1Wmlmo/FZoDj7rUw3oMJIpSt1Yjns3N+A+T0YjrIVF7/aGgh+7eNuho9YW8PwrM5CgqGsjruRA7U24="
-    - secure: "TC5+gq/qaDwc537/FNMpDvvOUxbSiJaGPMh/18u+I4fg5sJnfavWJtNlzXH4W/9ACRAtDDFpxcfVZtqHeb3q+Nh1WE8Sd1Wmlmo/FZoDj7rUw3oMJIpSt1Yjns3N+A+T0YjrIVF7/aGgh+7eNuho9YW8PwrM5CgqGsjruRA7U24="
+    - secure: "k/4VndbasFpxs5G2F9j/xPL9xxyhZ9EOEHr/YnwPf+S4ta3Y0btSPkRViVgh4Bzai+L8mJ82hTnLy7nNF1mxHF9e1nnZpU9pL6yswONxXSRMA+3d8epHiOkbDgzJgYtbt7a2/14oT8hcv+BR5u7q5GyJO1FFUV6Wy6zrdBhimI0="
